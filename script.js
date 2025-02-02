@@ -1,5 +1,5 @@
 const APILINK ="https://api.themoviedb.org/3/discover/movie/500?include_adult=false&include_video=false&language=en-US&page=1&sort_by=popularity.desc&api_key=cf551649a380289863a326f7ed92f90d";
-const IMG_PATH ="https://api.themoviedb.org/3/collection/collection_id/images";
+const IMG_PATH ="https://image.tmdb.org/t/p/w1280";
 const SEARCHAPI ="https://api.themoviedb.org/3/search/movie?&api_key=cf551649a380289863a326f7ed92f90d&query=";
 
 const main = document.getElementById("section");
