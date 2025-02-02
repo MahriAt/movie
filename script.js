@@ -1,4 +1,4 @@
-const APILINK ="https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=cf551649a380289863a326f7ed92f90d";
+const APILINK ="https://api.themoviedb.org/3/movie/550?api_key=cf551649a380289863a326f7ed92f90d";
 const IMG_PATH ="https://image.tmdb.org/t/p/w1280";
 const SEARCHAPI ="https://api.themoviedb.org/3/search/movie?&api_key=cf551649a380289863a326f7ed92f90d&query=";
 
